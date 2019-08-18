@@ -24,4 +24,4 @@ Currently, Peng is a senior at [ECNU](https://www.ecnu.edu.cn/), pursuing his Ba
 
 ------------------------------------------
 
-<center> This page maintained by <a href="(https://github.com/SimpleLP/simplelp.github.io">SimplePeng</a> </center>
+<center> This page maintained by <a href="https://github.com/SimpleLP/simplelp.github.io">SimplePeng</a> </center>
