@@ -2,7 +2,7 @@
 
 ------------------------
 
-【**[HOME](https://naivepeng.github.io/)**】&nbsp; &nbsp;【**[PUBLICATIONS](https://naivepeng.github.io/publications/)**】&nbsp; &nbsp;【**[PROJECTS](https://naivepeng.github.io/projects/)**】 &nbsp;&nbsp;【**[BLOG](https://naivepeng.github.io/blog/)**】&nbsp;&nbsp; 【**[USEFUL LINKS](https://naivepeng.github.io/links/)**】&nbsp;&nbsp;  【**[PENG'S LIFE](https://naivepeng.github.io/My-Life/)**】
+【**[HOME](https://simplelp.github.io/)**】&nbsp; &nbsp;【**[PUBLICATIONS](https://simplelp.github.io/publications/)**】&nbsp; &nbsp;【**[PROJECTS](https://simplelp.github.io/projects/)**】 &nbsp;&nbsp;【**[BLOG](https://simplelp.github.io/blog/)**】&nbsp;&nbsp; 【**[USEFUL LINKS](https://simplelp.github.io/links/)**】&nbsp;&nbsp;  【**[PENG'S LIFE](https://simplelp.github.io/My-Life/)**】
 
 ---------------------
 
@@ -24,4 +24,4 @@ Currently, Peng is a senior at [ECNU](https://www.ecnu.edu.cn/), pursuing his Ba
 
 ------------------------------------------
 
-<center> This page maintained by <a href="(https://github.com/NaivePeng/naivepeng.github.io">NaivePeng</a> </center>
+<center> This page maintained by <a href="(https://github.com/SimpleLP/simplelp.github.io">SimplePeng</a> </center>
