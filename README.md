@@ -2,7 +2,7 @@
 
 ------------------------
 
-【**[HOME](https://simplelp.github.io/)**】&nbsp;&nbsp;【**[PUBLICATIONS](https://simplelp.github.io/publications/)**】&nbsp;&nbsp;【**[PROJECTS](https://simplelp.github.io/projects/)**】 &nbsp;&nbsp;【**[BLOG](https://simplelp.github.io/blog/)**】&nbsp;&nbsp;【**[USEFUL LINKS](https://simplelp.github.io/links/)**】&nbsp;&nbsp;【**[OTHERS](https://simplelp.github.io/My-Life/)**】
+【**[HOME](https://simplelp.github.io/)**】&nbsp;&nbsp;【**[PUBLICATIONS](https://simplelp.github.io/Publications/)**】&nbsp;&nbsp;【**[PROJECTS](https://simplelp.github.io/Projects/)**】 &nbsp;&nbsp;【**[BLOG](https://simplelp.github.io/Blog/)**】&nbsp;&nbsp;【**[USEFUL LINKS](https://simplelp.github.io/links/)**】&nbsp;&nbsp;【**[OTHERS](https://simplelp.github.io/My-Life/)**】
 
 ---------------------
 
@@ -23,4 +23,4 @@ Currently, Peng is a senior at [East China Normal University](https://www.ecnu.e
 
 ------------------------------------------
 
-<center> This page maintained by <a href="https://github.com/SimpleLP/simplelp.github.io">SimplePeng</a> </center>
+<center> This page maintained by @<a href="https://simplelp.github.io/">SimplePeng</a> </center>
