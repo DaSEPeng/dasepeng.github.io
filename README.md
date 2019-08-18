@@ -7,7 +7,7 @@
 ---------------------
 
 ## Biography
-Currently, Peng is a senior at [ECNU](https://www.ecnu.edu.cn/), pursuing his Bachelor's degree in Data Science and Big Data Technology. Peng's interest lies mainly in the analysis and application of data, especially in natural language processing and recommendation systems.
+Currently, Peng is a senior at [East China Normal University](https://www.ecnu.edu.cn/), pursuing his Bachelor's degree in Data Science and Big Data Technology. Peng's interest lies mainly in the analysis and application of data, especially in natural language processing and recommendation systems.
 
 ---------------------------
 
