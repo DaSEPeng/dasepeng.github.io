@@ -40,7 +40,7 @@
 - [ ] 奥斯卡系列
 - [ ] 冰与火之歌系列
 - [ ] Netflix系列：毒枭
-
+- [ ] 周国平：[哲学私家课](https://www.bilibili.com/video/av59920436/?p=1)
 
 ## Books
 ### 19年计划
