@@ -10,6 +10,17 @@
   - [ ] [IBM Models](http://www.cs.columbia.edu/~mcollins/ibm12.pdf)
 - Point Networks
 - CopyNet
+- 变分
+  - 变分推断：徐亦达、白板推导系列
+  - 变分自编码器
+  - KL散度大集合
+- 玻尔兹曼机
+  - 玻尔兹曼机
+  - 受限玻尔兹曼机
+- 强化学习
+- 图网络
+- 语言模型
+- 信息抽取：实体抽取、关系抽取、事件抽取
 
 
 ## Videos
