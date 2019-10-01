@@ -44,9 +44,18 @@
 - [ ] 鸟哥的Linux私房菜
 - [ ] 概率图模型
 - [ ] 叔本华：[入门顺序](https://www.zhihu.com/question/26486717/answer/38148301)
-- The Book of Why
-- 大数据日知录
-- 希腊神话
-- 寓言故事
-- 历史
-- 哲学
+- [ ] The Book of Why
+- [ ] 大数据日知录
+- [ ] 希腊神话
+- [ ] 寓言故事
+- [ ] 历史
+- [ ] 哲学
+
+
+
+------------------------------------------------------------
+
+<div style="text-align:center;">
+This page maintained by @ <a href="https://dasepeng.github.io/">DaSEPeng</a>, 	
+<a href="https://github.com/DaSEPeng/dasepeng.github.io/tree/master/Links/ToLearnList">View on GitHub</a>
+</div>
