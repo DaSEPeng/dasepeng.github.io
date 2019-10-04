@@ -33,6 +33,7 @@
 - [ ] 动物世界
 - [ ] Introduction to Information Retrival, Christopher D. Manning
 - [ ] 漫威：[观影顺序](https://zhuanlan.zhihu.com/p/63153047)
+- [ ] DC: [观影顺序](https://zhidao.baidu.com/question/497995742957103884.html)
 - [ ] 生活大爆炸
 - [ ] 冯小刚：芳华、天下无贼、甲方乙方
 - [ ] 张艺谋：大红灯笼高高挂、金陵十三钗、红高粱、十面埋伏、满城尽带黄金甲
