@@ -42,6 +42,7 @@
 - [ ] 冰与火之歌系列
 - [ ] Netflix系列：毒枭
 - [ ] 周国平：[哲学私家课](https://www.bilibili.com/video/av59920436/?p=1)
+- [ ] [How to Start a Startup](http://startupclass.samaltman.com/)，B站也有“如何创业”
 
 ## Books
 ### 19年计划
