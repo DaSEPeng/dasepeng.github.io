@@ -10,7 +10,11 @@
   - [ ] [IBM Models](http://www.cs.columbia.edu/~mcollins/ibm12.pdf)
 - Point Networks
 - CopyNet
-- 变分
+- 变分法与变分推断
+  - [好玩的东西](https://www.bilibili.com/video/av35210091?from=search&seid=17395758843719763628)
+  - [利用费马原理求解最速降线问题的推导](https://www.youtube.com/watch?v=VRLtNLTPFCY)
+  - [两点之间直线最短到变分法](https://mp.weixin.qq.com/s/fAHoj2z-VvsevWpraKIYQw)
+  - 其他：[变分法](https://www.youtube.com/watch?v=IZwQ2TaraNs&list=PL090BE404EFE679E9)
   - 变分推断：徐亦达、白板推导系列
   - 变分自编码器
   - KL散度大集合
