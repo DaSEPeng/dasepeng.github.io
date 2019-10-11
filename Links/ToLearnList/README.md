@@ -6,6 +6,10 @@
   - [ ] [相依的专栏](https://jepsonwong.github.io/categories/)
 - Transformer
   - [ ] [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+  - [ ] [《Attention is All You Need》浅读（简介+代码）](https://kexue.fm/archives/4765)
+  - [ ] [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+  - [ ] [一文读懂Transformer+源码复现](https://blog.csdn.net/jiaowoshouzi/article/details/89641775)
+  - [ ] [一文读懂BERT(原理篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89073944)
 - Machine Translation
   - [ ] [IBM Models](http://www.cs.columbia.edu/~mcollins/ibm12.pdf)
 - Point Networks
