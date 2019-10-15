@@ -27,6 +27,11 @@
   - 受限玻尔兹曼机
 - [逻辑回归大串讲](http://bjsc.github.io/SuperLR-Page/)
 - 强化学习
+  - [ ] [莫烦](https://www.bilibili.com/video/av16921335/?p=21)
+  - [ ] 李宏毅
+  - [ ] David Silver
+  - [ ] 周志华
+  - [ ] 邱锡鹏
 - 图网络
 - 语言模型
 - 信息抽取：实体抽取、关系抽取、事件抽取
