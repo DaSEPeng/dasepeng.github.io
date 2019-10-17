@@ -10,6 +10,7 @@
   - [ ] [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
   - [ ] [一文读懂Transformer+源码复现](https://blog.csdn.net/jiaowoshouzi/article/details/89641775)
   - [ ] [一文读懂BERT(原理篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89073944)
+  - [ ] [比较不错的讲解](https://www.bilibili.com/video/av60670327?from=search&seid=15627662745322652509)
 - Machine Translation
   - [ ] [IBM Models](http://www.cs.columbia.edu/~mcollins/ibm12.pdf)
 - Point Networks
