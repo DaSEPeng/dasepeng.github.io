@@ -12,6 +12,7 @@
   - [ ] [一文读懂BERT(原理篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89073944)
   - [ ] [比较不错的讲解](https://www.bilibili.com/video/av60670327?from=search&seid=15627662745322652509)
   - [ ] [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf)
+  - [ ] [知乎问答](https://www.zhihu.com/question/339723385/answer/782509914)
 - Machine Translation
   - [ ] [IBM Models](http://www.cs.columbia.edu/~mcollins/ibm12.pdf)
 - Point Networks
