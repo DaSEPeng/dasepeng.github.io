@@ -91,6 +91,8 @@
 - [ ] 编译原理
 - [ ] [信息论](https://next.xuetangx.com/course/THU08071000428/1073672)
 
+### 随机
+- [ ] [Tensorflow 各版本修改对应](https://docs.google.com/spreadsheets/d/1FLFJLzg7WNP6JHODX5q8BDgptKafq_slHpnHVbJIteQ/edit#gid=0)
 
 
 ------------------------------------------------------------
