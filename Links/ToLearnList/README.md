@@ -96,6 +96,9 @@
 ### 随机
 - [ ] [Tensorflow 各版本修改对应](https://docs.google.com/spreadsheets/d/1FLFJLzg7WNP6JHODX5q8BDgptKafq_slHpnHVbJIteQ/edit#gid=0)
 
+### Todo Project
+- [ ] 个人QQ微信知乎微博助手，整合各种信息，不用再一次次地点开，并且能够自动筛选与推荐！（信息化的时代，我们不需要那么多无用的动态，关注身边的好友，关注生活本身，才是重要的，回归最基本的功能）
+
 
 ------------------------------------------------------------
 
