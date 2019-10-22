@@ -1,4 +1,5 @@
 ## Papers
+- [ ] sparseMAP, [Vlad](https://vene.ro/)
 - [ ] 胶囊网络
 - [ ] 离散优化
 - [ ] 凸优化
