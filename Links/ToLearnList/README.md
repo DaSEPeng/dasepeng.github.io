@@ -1,4 +1,5 @@
 ## Papers
+- [ ] [Hands-on tour to deep learning with PyTorch](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)
 - [ ] sparseMAP, [Vlad](https://vene.ro/)
 - [ ] 胶囊网络
 - [ ] 离散优化
