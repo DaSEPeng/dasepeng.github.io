@@ -1,4 +1,5 @@
 ## Papers
+- [ ] [如何区分并记住常见的几种 Normalization 算法](https://zhuanlan.zhihu.com/p/69659844)
 - [ ] [Deep Learning](http://www.deeplearningbook.org/)
 - [ ] [Hands-on tour to deep learning with PyTorch](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html)
 - [ ] sparseMAP, [Vlad](https://vene.ro/)
