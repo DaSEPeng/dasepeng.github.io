@@ -1,3 +1,7 @@
+## 杂货铺
+- 语句问题: P265页 11.1节正文第二段第二行，“表示对于的两个变量为因果关系” 建议改为“表示对应的两个变量有因果关系”；
+
+
 ## Papers
 - [ ] [如何区分并记住常见的几种 Normalization 算法](https://zhuanlan.zhihu.com/p/69659844)
 - [ ] [Deep Learning](http://www.deeplearningbook.org/)
