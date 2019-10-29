@@ -1,4 +1,5 @@
 ## 杂货铺
+- [非常好用的制表工具](http://www.tablesgenerator.com/#)
 - 语句问题: P265页 11.1节正文第二段第二行，“表示对于的两个变量为因果关系” 建议改为“表示对应的两个变量有因果关系”；
 - [ ] [深度信念网络](https://my.oschina.net/u/876354/blog/1626639)
 - [ ] [CCL报告](http://www.cips-cl.org/static/CCL2019/index.html)
