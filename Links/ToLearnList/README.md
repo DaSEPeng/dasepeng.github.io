@@ -5,8 +5,6 @@
 - [ ] [CCL报告](http://www.cips-cl.org/static/CCL2019/index.html)
 - [ ] [强化学习OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
 - [ ] [逐渐进入深水区](https://www.zhihu.com/question/34878706/answer/665429718)
-
-## Papers
 - [ ] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)，将强化学习统一到概率图模型
 - [ ] [如何区分并记住常见的几种 Normalization 算法](https://zhuanlan.zhihu.com/p/69659844)
 - [ ] [Deep Learning](http://www.deeplearningbook.org/)
@@ -59,9 +57,6 @@
 - 指代消解
 - 组合数学
 - [Useful Links](https://casmls.github.io/)
-
-
-## Videos
 - [ ] [武汉大学音乐欣赏](https://www.bilibili.com/watchlater/#/av18543070/p1)
 - [ ] [如何从头系统地听西方古典音乐？](https://www.zhihu.com/question/30957313/answer/50266448)
 - [ ] [Yale: Introduction To Classical Music](https://www.bilibili.com/video/av38583482?from=search&seid=10704055560065784918)
