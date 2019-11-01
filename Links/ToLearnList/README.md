@@ -4,6 +4,7 @@
 - [ ] [深度信念网络](https://my.oschina.net/u/876354/blog/1626639)
 - [ ] [CCL报告](http://www.cips-cl.org/static/CCL2019/index.html)
 - [ ] [强化学习OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html#what-this-is)
+- [ ] [逐渐进入深水区](https://www.zhihu.com/question/34878706/answer/665429718)
 
 ## Papers
 - [ ] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)，将强化学习统一到概率图模型
