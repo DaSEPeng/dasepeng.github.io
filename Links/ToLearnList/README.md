@@ -11,6 +11,7 @@
   - [ ] LeetCode
   - [ ] How to Start a Startup
   - [ ] CMU 深度学习 & 深度学习花书
+  - [ ] Linear algebra done right
 - 大四下：
   - CMU 15-319 云计算
   - CMU 15-410 操作系统设计与实现
