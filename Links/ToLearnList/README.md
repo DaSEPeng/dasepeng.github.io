@@ -1,5 +1,22 @@
 ## 杂货铺
-- 要有相对系统的计算机知识，深入的数学知识
+- 大四上
+  - [ ] CMU CSAPP
+  - [ ] MIT 线性代数
+  - [ ] 斯坦福 CS224N
+  - [ ] 操作系统 浙大/交大
+- 寒假
+  - [ ] 斯坦福 凸优化
+  - [ ] MIT 算法导论
+  - [ ] LeetCode
+  - [ ] How to Start a Startup
+  - [ ] CMU 深度学习 & 深度学习花书
+- 大四下：
+  - CMU 15-319 云计算
+  - CMU 15-410 操作系统设计与实现
+  - CS231N 计算机视觉
+  - NTU 概率论与数理统计
+  - CMU 10-708: Probabilistic Graphical Models
+  - 推荐系统
 - [非常好用的制表工具](http://www.tablesgenerator.com/#)
 - 语句问题: P265页 11.1节正文第二段第二行，“表示对于的两个变量为因果关系” 建议改为“表示对应的两个变量有因果关系”；
 - [ ] [深度信念网络](https://my.oschina.net/u/876354/blog/1626639)
