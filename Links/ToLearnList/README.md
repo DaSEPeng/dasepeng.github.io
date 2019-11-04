@@ -101,6 +101,8 @@
 - 奥斯卡金像奖系列！
 - [ ] [社会学概论](https://www.bilibili.com/video/av23100007?from=search&seid=9196884723540070375)！！！！
 - [ ] 北大法理学
+- 社会学
+- 社会心理学
 
 
 ## Books
