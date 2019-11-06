@@ -18,7 +18,7 @@
   - CMU 15-410 操作系统设计与实现
   - CS231N 计算机视觉
   - NTU 概率论与数理统计
-  - CMU 10-708: Probabilistic Graphical Models
+  - [CMU 10-708: Probabilistic Graphical Models](https://www.bilibili.com/video/av58562152?from=search&seid=2978855117232366242)
   - [CS246: Mining Massive Data Sets](https://www.bilibili.com/video/av69712556?from=search&seid=6273677200250855776)
   - [Stanford : Statistical Learning](https://www.bilibili.com/video/av19775701?from=search&seid=6273677200250855776)
   - [CS234: Reinforcement Learning](https://www.bilibili.com/video/av47812079?from=search&seid=3400005794081746659)
