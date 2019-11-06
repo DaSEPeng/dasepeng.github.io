@@ -19,8 +19,12 @@
   - CS231N 计算机视觉
   - NTU 概率论与数理统计
   - CMU 10-708: Probabilistic Graphical Models
-  - 推荐系统
+  - [CS246: Mining Massive Data Sets](https://www.bilibili.com/video/av69712556?from=search&seid=6273677200250855776)
+  - [Stanford : Statistical Learning](https://www.bilibili.com/video/av19775701?from=search&seid=6273677200250855776)
+  - [CS234: Reinforcement Learning](https://www.bilibili.com/video/av47812079?from=search&seid=3400005794081746659)
 
+- []()
+- [从生物学看人类行为](https://www.bilibili.com/video/av20906063?from=search&seid=6273677200250855776)
 - [非常好用的制表工具](http://www.tablesgenerator.com/#)
 - 语句问题: P265页 11.1节正文第二段第二行，“表示对于的两个变量为因果关系” 建议改为“表示对应的两个变量有因果关系”；
 - [ ] [深度信念网络](https://my.oschina.net/u/876354/blog/1626639)
