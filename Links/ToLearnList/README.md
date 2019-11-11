@@ -23,7 +23,7 @@
   - [Stanford : Statistical Learning](https://www.bilibili.com/video/av19775701?from=search&seid=6273677200250855776)
   - [CS234: Reinforcement Learning](https://www.bilibili.com/video/av47812079?from=search&seid=3400005794081746659)
 
-- []()
+- [从重参数化到Gumble Softmax](https://www.jianshu.com/p/9d5a0698f982)，学不完了............
 - [从生物学看人类行为](https://www.bilibili.com/video/av20906063?from=search&seid=6273677200250855776)
 - [非常好用的制表工具](http://www.tablesgenerator.com/#)
 - 语句问题: P265页 11.1节正文第二段第二行，“表示对于的两个变量为因果关系” 建议改为“表示对应的两个变量有因果关系”；
