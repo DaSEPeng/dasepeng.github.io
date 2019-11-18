@@ -23,6 +23,8 @@
   - [CS246: Mining Massive Data Sets](https://www.bilibili.com/video/av69712556?from=search&seid=6273677200250855776)/计科推荐系统
   - [Stanford : Statistical Learning](https://www.bilibili.com/video/av19775701?from=search&seid=6273677200250855776)
   - [CS234: Reinforcement Learning](https://www.bilibili.com/video/av47812079?from=search&seid=3400005794081746659)
+ 
+- 矩阵分解与梯度下降的关系
 - [CS103](http://web.stanford.edu/class/cs103/)
 - [从重参数化到Gumble Softmax](https://www.jianshu.com/p/9d5a0698f982)，学不完了............
 - [从生物学看人类行为](https://www.bilibili.com/video/av20906063?from=search&seid=6273677200250855776)
