@@ -10,6 +10,7 @@
   - [ ] 斯坦福 凸优化
   - [ ] MIT 算法导论
   - [ ] LeetCode
+  - [ ] [北大高等代数](https://www.bilibili.com/video/av40020819?from=search&seid=4069687238449968368)
   - [ ] How to Start a Startup
   - [ ] CMU 深度学习 & 深度学习花书
   - [ ] Linear algebra done right
