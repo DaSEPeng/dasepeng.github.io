@@ -1,5 +1,6 @@
 ## 杂货铺
 - PyTorch学习
+- [MIT 分布式系统](https://pdos.csail.mit.edu/6.824/index.html)
 - 大四上
   - [x] 陆建平 电子商务
   - [ ] CMU CSAPP
