@@ -1,4 +1,5 @@
 ## 杂货铺
+- [计算机科学速成课](https://www.bilibili.com/video/av21376839?p=1)
 - PyTorch学习
 - [MIT 分布式系统](https://pdos.csail.mit.edu/6.824/index.html)
 - 大四上
