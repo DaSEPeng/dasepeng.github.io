@@ -1,7 +1,3 @@
-<html>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<head>
-
 ## 杂货铺
 
 - [回头看](https://www.zhihu.com/question/28484672/answer/118343625)
