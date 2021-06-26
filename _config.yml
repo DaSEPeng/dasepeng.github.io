@@ -1,7 +1,9 @@
 title: Peng's Homepage
 theme: minima
 description: ""
-author: Artist Working with Data
+
+author:
+  name: Artist Working with Data
 
 plugins:
   - jekyll-redirect-from
