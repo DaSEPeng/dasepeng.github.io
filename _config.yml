@@ -8,6 +8,6 @@ plugins:
 theme: minima
 
 header_pages:
-  - about.md
+  - github.md
   
   
