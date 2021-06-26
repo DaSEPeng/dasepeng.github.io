@@ -1,7 +1,7 @@
 ---
 
 title: Introduction
-layout: posts
+layout: page
 
 ---
 
