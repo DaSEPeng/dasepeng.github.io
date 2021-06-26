@@ -5,7 +5,7 @@ description: ""
 plugins:
   - jekyll-redirect-from
 
-# theme: minima
+theme: minima
 
 header_pages:
   - contact/github.md
