@@ -6,7 +6,6 @@ plugins:
   - jekyll-redirect-from
 
 # theme: minima
-remote_theme: lilianweng/lil-log
 
 header_pages:
   - contact/github.md
