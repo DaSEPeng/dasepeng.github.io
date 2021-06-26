@@ -6,7 +6,7 @@ layout: home
 ---
 
 ##  1. Introduction to Machine Learning
-- [Introduction to Machine Learning](./introduction/)
+- [Introduction to Machine Learning](./_introduction/)
 - Mathematical Foundation
 
 ## 2. Non-probabilistic model
