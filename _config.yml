@@ -2,4 +2,11 @@ title: Peng's Homepage
 theme: minima
 description: ""
 author: Artist Working with Data
-header_pages: ""
+
+plugins:
+  - jekyll-redirect-from
+
+header_pages:
+  - about.md
+  
+  
