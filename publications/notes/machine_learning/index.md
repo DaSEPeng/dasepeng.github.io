@@ -1,9 +1,4 @@
----
-
-title: Machine Learning
-layout: home
-
----
+# Machine Learning
 
 ##  1. Introduction to Machine Learning
 - [Introduction to Machine Learning](./introduction/)
