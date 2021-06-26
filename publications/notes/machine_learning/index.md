@@ -1,10 +1,9 @@
 ---
 
+title: Syllabus
 layout: home
 
 ---
-
-# Syllabus
 
 ##  1. Introduction to Machine Learning
 ### 1) Introduction to Machine Learning
