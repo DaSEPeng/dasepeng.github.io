@@ -1,6 +1,6 @@
 ---
 
-title: Syllabus
+title: Machine Learning
 layout: home
 
 ---
