@@ -1,9 +1,4 @@
----
-
-title: Introduction
-layout: page
-
----
+# Introduction
 
 # Introduction2
 
