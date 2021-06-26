@@ -6,7 +6,7 @@ layout: home
 ---
 
 ##  1. Introduction to Machine Learning
-### 1) Introduction to Machine Learning
+### 1) [Introduction to Machine Learning](./introduction/)
 
 ### 2) Mathematical Foundation
 - Calculus
