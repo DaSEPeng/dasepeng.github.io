@@ -1,13 +1,2 @@
 title: PENG's HOMEPAGE
-author: Artist Working with Data
-description: ""
-
-plugins:
-  - jekyll-redirect-from
-
-theme: minima
-
-header_pages:
-  - contact/github.md
-  - contact/instagram.md
   
