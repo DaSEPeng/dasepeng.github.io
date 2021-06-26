@@ -4,10 +4,11 @@ description: ""
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
 
 theme: minima
 
 header_pages:
-  - github.md
-  
+  - contact/github.md
+  - contact/instagram.md
   
